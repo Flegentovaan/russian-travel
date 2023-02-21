@@ -1,0 +1,6 @@
+.footer__list-item {
+  display: inline-block;
+  max-width: 106px;
+  min-height: 18px;
+  margin-right: 18px;
+}
