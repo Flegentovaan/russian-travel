@@ -1,11 +1,6 @@
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts/fonts.css);
-@import url(../vendor/fonts/Inter-Black.woff);
-@import url(../vendor/fonts/Inter-Black.woff2);
-@import url(../vendor/fonts/Inter-Bold.woff);
-@import url(../vendor/fonts/Inter-Bold.woff2);
-@import url(../vendor/fonts/Inter-Regular.woff);
-@import url(../vendor/fonts/Inter-Regular.woff2);
+
 @import url(../blocks/container/container.css);
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__link/cover__link.css);
@@ -42,3 +37,20 @@
 @import url(../blocks/place/__url-heading/place__url-heading.css);
 @import url(../blocks/place/__website/place__website.css);
 @import url(../blocks/places/places.css);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.header__lang-link_active {
+  text-decoration: underline;
+}
