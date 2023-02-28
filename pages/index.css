@@ -19,7 +19,7 @@
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__span/intro__span.css);
-@import url(../blocks/intro/__subtitle/intro__subtitle.css);
+@import url(../blocks/intro/__text/intro__text.css);
 
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/lead/lead.css);
@@ -41,10 +41,6 @@
 @import url(../blocks/places/places.css);
 
 
-
-/* .header__lang {
-  margin: 0;
-} */
 
 
 
