@@ -3,6 +3,11 @@
   list-style: none;
   padding: 0;
   margin: 33px 0 0;
+  color: #fff;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 150%;
 }
 
 @media screen and (max-width: 767px) {

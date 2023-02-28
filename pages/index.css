@@ -13,13 +13,14 @@
 @import url(../blocks/footer/__list/footer__list.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
+@import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
 @import url(../blocks/header/__lang/header__lang.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__span/intro__span.css);
 @import url(../blocks/intro/__subtitle/intro__subtitle.css);
-@import url(../blocks/intro/__text/intri__text.css);
+
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__caption/lead__caption.css);
@@ -39,18 +40,26 @@
 @import url(../blocks/places/places.css);
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-.header__lang-link_active {
-  text-decoration: underline;
+.header__logo {
+  width: 176px;
+  height: 52px;
+  padding: 0;
 }
+
+@media screen and (max-width: 767px){
+  .header__logo {
+    width: 142px;
+    height: 42px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+

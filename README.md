@@ -15,5 +15,8 @@
 + Интерактивные элементы
 ## Макет 
 [Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0&t=tmB0NG0ZCBw8ZXe3-0, "Figma")
+## Сайт
+[Путешествия по России](https://flegentovaan.github.io/russian-travel/, "Путешествия по России")
 ## Планы по доработке
 + Подключить английский язык
+
