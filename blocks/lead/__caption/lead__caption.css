@@ -9,12 +9,14 @@
   text-transform: uppercase;
 }
 
+@media screen and (max-width: 1023px) {
+  .lead__caption {
+    margin: 8px 24px 0;
+  }
+ }
+
 @media screen and (max-width: 767px) {
   .lead__caption {
-    font-size: 10px;
-    line-height: 140%;
     margin: 8px 16px 0;
-    letter-spacing: 1.5px;
-   text-transform: uppercase;
   }
  }

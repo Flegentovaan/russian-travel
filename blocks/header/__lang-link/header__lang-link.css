@@ -2,6 +2,7 @@
   color: #fff;
   text-decoration: none;
   margin-left: 18px;
+  max-width: 30px;
 }
 
 .header__lang-link:first-child {
@@ -16,5 +17,11 @@
   .header__lang-link {
     font-size: 18px;
     line-height: 20px;
+  }
+ }
+
+ @media screen and (max-width: 767px) {
+  .header__lang-link {
+   max-width: 23px;
   }
  }
